@@ -3,7 +3,7 @@ Hi friends , My name is Aung Thiha . I've started learning android developlment 
 
 - 🔭 I’m currently working on nothing .
 - 🌱 I’m currently learning android development.
-- 👯 I’m looking to collaborate on my Youtube Channel 'Flexath' - https://www.youtube.com/channel/UCqTlaXw7ZFnRj-Bdm-UXQTg
+- 👯 I’m looking to collaborate on my Youtube Channel 'Flexath' - https://www.youtube.com/@TheFlexath
 - 💬 Ask me about C++ and kotlin.
 - 📫 How to reach me: https://www.instagram.com/flexath11/
 - 😄 Pronouns: Aung Thiha

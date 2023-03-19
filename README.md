@@ -3,8 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw0ctV4yoG3itISHZnX6u0DS&ust=1679300834460000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCKDXgKHJ5_0CFQAAAAAdAAAAABAU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flexath&label=Profile%20views&color=0e75b6&style=flat" alt="flexath" /> </p>
-
 - 🔭 I’m currently working on [The Moving Booking App](https://github.com/flexath/The-Movie-Booking-App-PADC)
 
 - 🌱 I’m currently learning **native android development with kotlin.**

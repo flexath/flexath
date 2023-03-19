@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Kotlin,C++,Linux**
 
-- 📫 How to reach me **https://www.youtube.com/@TheFlexath,https://www.instagram.com/flexath11/,https://www.facebook.com/profile.php?id=100027249152491**
+- 📫 How to reach me **https://www.youtube.com/@TheFlexath**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1DLwnFa5_lh_nl0DCiYRkjLASoIc5M4PeLTInorcJdPs/edit?usp=sharing](https://docs.google.com/document/d/1DLwnFa5_lh_nl0DCiYRkjLASoIc5M4PeLTInorcJdPs/edit?usp=sharing)
 

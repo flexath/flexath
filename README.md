@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aung Thiha</h1>
+<h1 align="center">Hi , I'm Aung Thiha</h1>
 <h3 align="center">I am a junior android developer,lifelong learner and adventurer with a professional mindset.I do love solving problems and facing new challenges in life and in software development.I am motivated by the opportunity that software provides to positively impact the life of an individual.</h3>
 
 

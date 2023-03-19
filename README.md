@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aung Thiha</h1>
 <h3 align="center">I am a junior android developer,lifelong learner and adventurer with a professional mindset.I do love solving problems and facing new challenges in life and in software development.I am motivated by the opportunity that software provides to positively impact the life of an individual.</h3>
 
-img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw0ctV4yoG3itISHZnX6u0DS&ust=1679300834460000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCKDXgKHJ5_0CFQAAAAAdAAAAABAU"
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw0ctV4yoG3itISHZnX6u0DS&ust=1679300834460000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCKDXgKHJ5_0CFQAAAAAdAAAAABAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flexath&label=Profile%20views&color=0e75b6&style=flat" alt="flexath" /> </p>
 

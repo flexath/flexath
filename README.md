@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flexath&label=Profile%20views&color=0e75b6&style=flat" alt="flexath" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flexath" alt="flexath" /></a> </p>
-
 - 🔭 I’m currently working on [The Moving Booking App](https://github.com/flexath/The-Movie-Booking-App-PADC)
 
 - 🌱 I’m currently learning **native android development with kotlin.**
@@ -15,7 +13,7 @@
 
 - 💬 Ask me about **Kotlin,C++,Linux**
 
-- 📫 How to reach me **https://www.youtube.com/@TheFlexath,https://www.instagram.com/flexath11/,https://www.facebook.com/profile.php?id=100027249152491**
+- 📫 How to reach me **https://www.youtube.com/@TheFlexath**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1DLwnFa5_lh_nl0DCiYRkjLASoIc5M4PeLTInorcJdPs/edit?usp=sharing](https://docs.google.com/document/d/1DLwnFa5_lh_nl0DCiYRkjLASoIc5M4PeLTInorcJdPs/edit?usp=sharing)
 

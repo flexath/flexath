@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/aung thiha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aung thiha" height="30" width="40" /></a>
 <a href="https://fb.com/aung thiha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aung thiha" height="30" width="40" /></a>
 <a href="https://instagram.com/flexath11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flexath11" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/flexath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="flexath" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@TheFlexath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="flexath" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

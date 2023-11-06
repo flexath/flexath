@@ -21,13 +21,11 @@ I'm a dedicated 24-year-old Junior Native Android developer with a strong backgr
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1DLwnFa5_lh_nl0DCiYRkjLASoIc5M4PeLTInorcJdPs/edit?usp=sharing](https://docs.google.com/document/d/1DLwnFa5_lh_nl0DCiYRkjLASoIc5M4PeLTInorcJdPs/edit?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aung thiha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aung thiha" height="30" width="40" /></a>
-<a href="https://fb.com/aung thiha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aung thiha" height="30" width="40" /></a>
-<a href="https://instagram.com/flexath11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flexath11" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@TheFlexath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="flexath" height="30" width="40" /></a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flexath&show_icons=true&locale=en&layout=compact" alt="flexath" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=flexath&show_icons=true&locale=en" alt="flexath" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=flexath&" alt="flexath" /></p>
 
 ### 🧰 Languages and Tools
 
@@ -41,8 +39,10 @@ I'm a dedicated 24-year-old Junior Native Android developer with a strong backgr
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flexath&show_icons=true&locale=en&layout=compact" alt="flexath" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flexath&show_icons=true&locale=en" alt="flexath" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flexath&" alt="flexath" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aung thiha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aung thiha" height="30" width="40" /></a>
+<a href="https://fb.com/aung thiha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aung thiha" height="30" width="40" /></a>
+<a href="https://instagram.com/flexath11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flexath11" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@TheFlexath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="flexath" height="30" width="40" /></a>
+</p>

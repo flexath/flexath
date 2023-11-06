@@ -16,6 +16,8 @@ I'm a dedicated 24-year-old Junior Native Android developer with a strong backgr
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+<img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p9zb8195k3c1sj75g728jkxpmn91tul9nws7wsc1&rid=giphy.gif&ct=g">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aung thiha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aung thiha" height="30" width="40" /></a>

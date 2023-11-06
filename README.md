@@ -20,6 +20,4 @@ I'm a dedicated 24-year-old Junior Native Android developer with a strong backgr
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
-
-
 <!-- END YOUTUBE-CARDS -->

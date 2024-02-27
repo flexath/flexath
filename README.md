@@ -18,7 +18,7 @@ I'm a dedicated 24-year-old Junior Native Android developer with a strong backgr
 
 - 📫 How to reach me **https://www.youtube.com/@TheFlexath**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1gv_-owq64c8obsdC0SL3pG9xlCmnGnN9k52eKI6-TDw/edit?usp=sharing)
+- 📄 Know about my experiences https://docs.google.com/document/d/1gv_-owq64c8obsdC0SL3pG9xlCmnGnN9k52eKI6-TDw/edit?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

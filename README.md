@@ -2,7 +2,7 @@
 
 **` Android Developer `**
 
-I'm a dedicated Native Android developer with over 1 year of working experience. I'm passionate about continuous learning and enjoy tackling new challenges, whether in life or software development. What truly inspires me is the potential of software to make a positive difference in people's lives.
+I'm a dedicated Native Android developer with over 1.8 years of working experience. I'm passionate about continuous learning and enjoy tackling new challenges, whether in life or software development. What truly inspires me is the potential of software to make a positive difference in people's lives.
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p9zb8195k3c1sj75g728jkxpmn91tul9nws7wsc1&rid=giphy.gif&ct=g">
 
